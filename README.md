@@ -1,4 +1,4 @@
-Cybersecurity Engineer in the French Army, focused on cybersecurity, systems programming, network security, and secure software development.
+Cybersecurity Engineer, focused on cybersecurity, systems programming, network security, and secure software development.
 
 Languages & Technologies
 
