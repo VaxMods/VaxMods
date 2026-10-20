@@ -2,7 +2,7 @@
 
 # CYBERSECURITY ENGINEER
 
-**French Army | Cybersecurity · Systems · Software Engineering**
+**Cybersecurity · Systems · Software Engineering**
 
 <img src="https://img.shields.io/badge/Focus- Cybersecurity-00D9A6?style=flat-square&labelColor=111827" />
 <img src="https://img.shields.io/badge/Systems-Engineering-00D9A6?style=flat-square&labelColor=111827" />
